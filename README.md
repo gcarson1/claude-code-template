@@ -25,7 +25,7 @@ Why user-level: subagents and skills in `~/.claude/` work in every project with 
 git clone https://github.com/gcarson1/claude-code-template.git
 ```
 
-Or download `claude-code-template.zip` from the repo's Releases page and unzip it.
+Or download [`claude-code-template.zip`](claude-code-template.zip) from this repo and unzip it. The green **Code → Download ZIP** button on GitHub always gives the very latest version.
 
 ## Install (once)
 
